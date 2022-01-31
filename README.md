@@ -31,6 +31,8 @@ The Architecture workshop - OpenShift developer is a two-day learning experience
 ## AGENDA
 The next iteration of this Architecture Workshop happens on Feb 1st 2022 to Feb 2ndl 2022. Times in Central European Time.
 
+If you want to participate, please go [here](https://www.redhat-partner.com/enablement/trainings/register/278/) and register for free.
+
 ### Day #1
 Start | End | Topics
 ------|-----|------
