@@ -64,8 +64,10 @@ The slides and presentations can be found in this repository.
 
 ## Demo Repositories & Requirements
 All sources and demos are publicly available on GitHub. 
-- [Book Examples](https://github.com/wpernath/book-example.git)
-- [Book Example Config](https://github.com/wpernath/person-service-config.git)
+- [Basic Book Examples](https://github.com/wpernath/book-example.git)
+- [Basic Book Example Config](https://github.com/wpernath/person-service-config.git)
+- [Advanced Example](https://github.com/wpernath/light-control.git)
+- [Advanced Example Config](https://github.com/wpernath/light-control-config.git)
 
 
 ## Addional Resources
