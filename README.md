@@ -64,6 +64,9 @@ The slides and presentations can be found in this repository.
 - [ServiceMesh & Serverless](material/3_ServiceMesh%20&%20Serverless.pdf)
 - [CI/CD & GitOps](material/4_CI_CD.pdf)
 
+## Accompanying eBook
+The accompanying free eBook of this workshop is [Getting GitOps](https://developers.redhat.com/e-books/getting-gitops-practical-platform-openshift-argo-cd-and-tekton), which has been published by [Red Hat Developers](https://developers.redhat.com/). 
+
 ## Demo Repositories & Requirements
 All sources and demos are publicly available on GitHub. 
 - [Basic Book Examples](https://github.com/wpernath/book-example.git)
