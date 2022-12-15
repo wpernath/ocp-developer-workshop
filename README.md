@@ -56,6 +56,14 @@ Start | End | Topics
 13:30|15:30|GitOps - Basics / Concepts - Using ArgoCD - Working with the examples - Building a complete demo
 15:30|16:00|Open Questions / Answers
 
+## Recordings
+Please have a look at the latest recordings of the workshop here:
+
+Date | Time | Description
+-----|-------|------------
+Dec 14 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1H-AfeqH5ADwowEBYagI46c4U51Cn5BHd/view?usp=share_link) | Morning session - General, Quarkus Demo 
+Dec 14 2022 | 13:00pm - 15:15am | Afternoon session - Templates, Helm, Kustomize, Operators
+
 ## Resources
 The slides and presentations can be found in this repository.
 
