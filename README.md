@@ -63,7 +63,7 @@ Date | Time | Description
 -----|-------|------------
 Dec 14 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1H-AfeqH5ADwowEBYagI46c4U51Cn5BHd/view?usp=share_link) | Morning session - General, Quarkus Demo 
 Dec 14 2022 | [13:00pm - 15:15am](https://drive.google.com/file/d/1gF9BcHCIOWxZvWDWKUBuetDvB-FUACt2/view?usp=share_link) | Afternoon session - Templates, Helm, Kustomize, Operators
-Dec 15 2022 | 9:00am - 12:00am | Morning session - Knative, ServiceMesh, Tekton
+Dec 15 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1O6Pz9uiduJcsRUBKEqe4VGRP3Ds1wsKs/view?usp=share_link) | Morning session - Knative, ServiceMesh, Tekton
 Dec 15 2022 | 13:00pm - 15:00pm | Afternoon session - GitOps, ArgoCD, Working with the example
 
 ## Resources
@@ -81,12 +81,16 @@ The accompanying free eBook of this workshop is [Getting GitOps](https://develop
 All sources and demos are publicly available on GitHub. 
 - [Basic Book Examples](https://github.com/wpernath/book-example.git)
 - [Basic Book Example Config](https://github.com/wpernath/person-service-config.git)
+- [GrumpyCat Example Game](https://github.com/wpernath/quarkus-grumpycat.git)
+- [GrumpyCat Example Config](https://github.com/wpernath/grumpycat-config.git)
 - [Advanced Example](https://github.com/wpernath/light-control.git)
 - [Advanced Example Config](https://github.com/wpernath/light-control-config.git)
 
 
 ## Addional Resources
 If you want to deepen your knowledge on several topics, have a look at the following blog series on **Automated Application Packaging and Distribution with OpenShift** which you could read here: 
+
+(BTW, the blog series has been rewritten and published by RedHat Developers). 
 
 - [Chapter zero](https://www.opensourcerers.org/2021/12/20/how-to-quickly-create-a-crud-service-with-quarkus/) talks about creating the CRUD service with Quarkus.
 
