@@ -64,7 +64,7 @@ Date | Time | Description
 Dec 14 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1H-AfeqH5ADwowEBYagI46c4U51Cn5BHd/view?usp=share_link) | Morning session - General, Quarkus Demo 
 Dec 14 2022 | [13:00pm - 15:15am](https://drive.google.com/file/d/1gF9BcHCIOWxZvWDWKUBuetDvB-FUACt2/view?usp=share_link) | Afternoon session - Templates, Helm, Kustomize, Operators
 Dec 15 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1O6Pz9uiduJcsRUBKEqe4VGRP3Ds1wsKs/view?usp=share_link) | Morning session - Knative, ServiceMesh, Tekton
-Dec 15 2022 | 13:00pm - 15:00pm | Afternoon session - GitOps, ArgoCD, Working with the example
+Dec 15 2022 | [13:00pm - 15:00pm](https://drive.google.com/file/d/1jH4piMoHufvRltZKqem5Mli3i5gGsDe6/view?usp=share_link) | Afternoon session - GitOps, ArgoCD, Working with the example
 
 ## Resources
 The slides and presentations can be found in this repository.
