@@ -29,7 +29,7 @@ The Architecture workshop - OpenShift developer is a two-day learning experience
 - Java or any other programming language
 
 ## AGENDA
-The next iteration of this Architecture Workshop happens on Dec 14th 2022 to Dec 15th 2022. Times in Central European Time.
+The next iteration of this Architecture Workshop happens on Feb 22nd 2023 to Feb 23rd 2023. Times in Central European Time.
 
 If you want to participate, please go [here](https://www.redhat-partner.com/enablement/trainings/register/278/) and register for free.
 
@@ -90,7 +90,7 @@ All sources and demos are publicly available on GitHub.
 ## Addional Resources
 If you want to deepen your knowledge on several topics, have a look at the following blog series on **Automated Application Packaging and Distribution with OpenShift** which you could read here: 
 
-(BTW, the blog series has been rewritten and published by RedHat Developers). 
+(BTW, the blog series has been rewritten and published by [RedHat Developers](https://developers.redhat.com/e-books/getting-gitops-practical-platform-openshift-argo-cd-and-tekton)). 
 
 - [Chapter zero](https://www.opensourcerers.org/2021/12/20/how-to-quickly-create-a-crud-service-with-quarkus/) talks about creating the CRUD service with Quarkus.
 
