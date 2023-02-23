@@ -81,6 +81,8 @@ The accompanying free eBook of this workshop is [Getting GitOps](https://develop
 All sources and demos are publicly available on GitHub. 
 - [Basic Book Examples](https://github.com/wpernath/book-example.git)
 - [Basic Book Example Config](https://github.com/wpernath/person-service-config.git)
+- [KNative / Serverless Workshop](https://github.com/wpernath/knative-workshop)
+- [Quarkus Quickstart](https://github.com/wpernath/quarkus-worldtour)
 - [GrumpyCat Example Game](https://github.com/wpernath/quarkus-grumpycat.git)
 - [GrumpyCat Example Config](https://github.com/wpernath/grumpycat-config.git)
 - [Advanced Example](https://github.com/wpernath/light-control.git)
