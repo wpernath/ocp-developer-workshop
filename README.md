@@ -29,7 +29,7 @@ The Architecture workshop - OpenShift developer is a two-day learning experience
 - Java or any other programming language
 
 ## AGENDA
-The next iteration of this Architecture Workshop happens on Feb 22nd 2023 to Feb 23rd 2023. Times in Central European Time.
+The next iteration of this Architecture Workshop happens on April 14th 2024 to April 15th 2024. Times in Central European Time.
 
 If you want to participate, please go [here](https://www.redhat-partner.com/enablement/trainings/register/278/) and register for free.
 
@@ -38,8 +38,9 @@ Start | End | Topics
 ------|-----|------
 9:00 | 9:30| Intro & Welcome
 9:30 | 10:30| Kubernetes and OpenShift
-**10:30**|**10:45**| **break**
-10:45|12:15|Introduction to Quarkus - What is Quarkus - First steps with Quarkus Creating REST CRUD services
+10:30| 11:00| Podman Desktop
+**11:00**|**11:15**| **break**
+11:15|12:15|Introduction to Quarkus - What is Quarkus - First steps with Quarkus Creating REST CRUD services
 **12:15**|**13:15**|**Lunch Break**
 13:15|15:30|Application Packaging - Templates - Kustomize - DIY - Helm Charts - Kubernetes Operators
 15:30|16:00|Open Questions / Answers
