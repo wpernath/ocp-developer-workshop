@@ -29,7 +29,7 @@ The Architecture workshop - OpenShift developer is a two-day learning experience
 - Java or any other programming language
 
 ## AGENDA
-The next iteration of this Architecture Workshop happens on April 14th 2024 to April 15th 2024. Times in Central European Time.
+The next iteration of this Architecture Workshop happens on May 14th 2024 to May 15th 2024. Times in Central European Time.
 
 If you want to participate, please go [here](https://www.redhat-partner.com/enablement/trainings/register/278/) and register for free.
 
@@ -62,13 +62,13 @@ Please have a look at the latest recordings of the workshop here:
 
 Date | Time | Description
 -----|-------|------------
-Dec 14 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1H-AfeqH5ADwowEBYagI46c4U51Cn5BHd/view?usp=share_link) | Morning session - General, Quarkus Demo 
-Dec 14 2022 | [13:00pm - 15:15am](https://drive.google.com/file/d/1gF9BcHCIOWxZvWDWKUBuetDvB-FUACt2/view?usp=share_link) | Afternoon session - Templates, Helm, Kustomize, Operators
-Dec 15 2022 | [9:00am - 12:00am](https://drive.google.com/file/d/1O6Pz9uiduJcsRUBKEqe4VGRP3Ds1wsKs/view?usp=share_link) | Morning session - Knative, ServiceMesh, Tekton
-Dec 15 2022 | [13:00pm - 15:00pm](https://drive.google.com/file/d/1jH4piMoHufvRltZKqem5Mli3i5gGsDe6/view?usp=share_link) | Afternoon session - GitOps, ArgoCD, Working with the example
+Apr 15 2024 | [9:00am - 12:00am](https://drive.google.com/file/d/1CTIIgQdQecNl6l0GNbzt2GKpHG8B2iGi/view?usp=drive_link) | Morning session - General, Quarkus Demo 
+Apr 15 2024 | [13:30pm - 16:30pm](https://drive.google.com/file/d/16NEybIW0ALNEVovjES7kksDmBlFDuzDS/view?usp=drive_link) | Afternoon session - Templates, Helm, Kustomize, Operators
+Apr 16 2024 | [9:00am - 12:00am](https://drive.google.com/file/d/1SX9g7X9nBcwTPHfWfS9nrmYJK04qVcNH/view?usp=drive_link) | Morning session - Knative, ServiceMesh, Tekton
+Apr 16 2024 | [13:30pm - 16:30pm](https://drive.google.com/file/d/195He19QverKlwvABBfcuG0eq-q96xdfY/view?usp=drive_link) | Afternoon session - GitOps, ArgoCD, Working with the example
 
 ## Resources
-The slides and presentations can be found in this repository.
+The slides and presentations can be found in this repository under `material`.
 
 - [Intro](material/1_Introduction%20to%20Red%20Hat%20OpenShift%20for%20Developers.pdf)
 - [Application Packaging](material/2_Application%20Packaging.pdf)
