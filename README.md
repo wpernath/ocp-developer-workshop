@@ -1,20 +1,29 @@
 # Architecture Workshop - OpenShift Developers
-## What is it?
-The Architecture workshop - OpenShift developer is a two-day learning experience for developers who want to understand and make use of the benefits of OpenShift in their daily work. They learn everything they need to understand the concepts, the architectural principles and components of OpenShift and related products for successfully discussing and developing OpenShift at a customer site from a developer’s perspective.
+## Overview
+The OpenShift Developer Architecture Workshop is an immersive, two-day learning experience explicitly tailored for developers who want to integrate the full potential of Red Hat OpenShift into their daily workflows. Moving beyond plain Kubernetes, this workshop dives deep into the OpenShift developer ecosystem, exploring its architectural principles, core components, and the unique benefits it provides.
+
+The curriculum uses a highly practical approach: Throughout the workshop, participants will work on a concrete use case—building and deploying a multiplayer game called "Quarkus GrumpyCat"—to see exactly how modern cloud-native technologies seamlessly integrate in a real-world scenario. Over the course of the two days, the workshop covers a comprehensive journey:
+
+- **Day 1 (Foundations & Packaging):** Focuses on local development with Podman Desktop, building Kubernetes-native REST CRUD services with the Quarkus Java framework, and mastering application packaging techniques. You will learn how to move applications across stages using OpenShift Templates, Kustomize, Helm Charts, and Kubernetes Operators.
+- **Day 2 (Advanced Architecture & Automation):** Tackles advanced cloud-native architectures, including OpenShift Serverless (Knative) and ServiceMesh (Istio). The workshop culminates in modern CI/CD automation, teaching you how to implement OpenShift Pipelines (Tekton) and manage declarative deployments with OpenShift GitOps (ArgoCD).
+
+Ultimately, attendees will leave not only with a functional GitOps blueprint for their own projects, but also with the confidence and skills to successfully demo and advocate for OpenShift solutions at customer sites from a developer's perspective. Furthermore, the entire workshop perfectly aligns with the concepts discussed in the free Red Hat Developers eBook, "Getting GitOps".
+
 
 ## Key Takeaways
-- Benefits of OpenShift prior plain Kubernetes
-- How to effectively demo OpenShift from a Developer’s perspective
-- Understanding OpenShift ServiceMesh (istio.io)
-- Understanding and using Quarkus to build a micro service
-- Developing with OpenShift 
-- Using Source to Image
-- Understanding Serverless (Knative)
-- Service Binding
-- Using OpenShift Templates and Kustomize to redeploy your Application
-- Creating and Using Helm Charts and Kubernetes Operators
-- Use OpenShift Pipelines (Tekton Pipelines) to do CI/CD
-- Use of ArgoCD and OpenShift GitOps
+- **OpenShift vs. Kubernetes:** Understanding the specific benefits of using OpenShift over plain Kubernetes.
+- **Effective Demos:** Learning how to successfully demonstrate OpenShift from a developer's perspective.
+  
+- **Microservices with Quarkus:** Understanding and utilizing the Quarkus framework to build cloud-native microservices.
+- **Core OpenShift Development:** Gaining hands-on experience with OpenShift development concepts, including:
+  - Using Source-to-Image (S2I).
+  - Understanding Serverless architecture using Knative.
+  - Implementing Service Binding.
+- **ServiceMesh Integration:** Understanding OpenShift ServiceMesh (based on Istio) for managing microservice communications.
+- **Application Packaging and Redeployment:** Learning how to redeploy applications using OpenShift Templates and Kustomize.
+- **Advanced Packaging Tools:** Creating and making use of Helm Charts and Kubernetes Operators.
+- **CI/CD Automation:** Implementing Continuous Integration and Continuous Delivery (CI/CD) using OpenShift Pipelines (Tekton Pipelines).
+- **GitOps Practices:** Mastering the use of ArgoCD and OpenShift GitOps for declarative application management.
 
 ## Target Audience
 - Sales Engineers
