@@ -38,7 +38,7 @@ Ultimately, attendees will leave not only with a functional GitOps blueprint for
 ## AGENDA
 The next iteration of this Architecture Workshop happens on May 14th 2024 to May 15th 2024. Times in Central European Time.
 
-If you want to participate, please go [here](https://www.redhat-partner.com/enablement/trainings/register/278/) and register for free.
+If you want to participate please get in touch with your Red Hat Partner Account Manager. 
 
 ### Day #1
 Start | End | Topics
